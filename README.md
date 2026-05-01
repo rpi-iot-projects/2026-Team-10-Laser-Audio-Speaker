@@ -1,7 +1,7 @@
 # 2026-Team-10-Laser-Audio-Speaker
 ## LiFi File Transfer
 
-A OOK modulation laser file transfer system using two Raspberry Pis. Files are sent from the **TX Pi** over a laser beam using PWM encoding and received by the **RX Pi** via a photodiode, transimpedance amplifier, and comparitor. The recived packets are then verified with CRC-8 and ARQ retransmit.
+A OOK modulation laser file transfer system using two Raspberry Pis. Files are sent from the **TX Pi** over a laser beam using PWM encoding and received by the **RX Pi** via a photodiode, transimpedance amplifier, and comparator. The recived packets are then verified with CRC-8 and ARQ retransmit.
 
 ## Table of Contents
 
