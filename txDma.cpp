@@ -523,7 +523,7 @@ int main(int argc, char* argv[])
         }
     }
 
-    gpioWrite(FWD_PIN, 0);// Turn laser is off
+    gpioWrite(FWD_PIN, 0);// Turn laser off
     gpioTerminate();
     return 0;
 }
